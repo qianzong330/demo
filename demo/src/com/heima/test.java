@@ -5,5 +5,6 @@ public class test {
         System.out.println(111);
         System.out.println(33333 );
         System.out.println(555);
+        System.out.println(666);
     }
 }
